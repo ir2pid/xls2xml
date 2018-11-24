@@ -6,7 +6,7 @@ root.set('name', 'Network')
 tree = etree.ElementTree(root)
 name = etree.Element('nodes')
 root.append(name)
-wb = xlrd.open_workbook("test.xls")
+wb = xlrd.open_workbook("input.xls")
 sh = wb.sheet_by_index(0)
 
 for row in range(1, sh.nrows):
