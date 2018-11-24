@@ -1,0 +1,9 @@
+<network name="Network">
+  <nodes>
+    <node id="1" x="343.0" y="121.0"/>
+    <node id="2" x="323.0" y="11.0"/>
+    <node id="3" x="765.0" y="65.0"/>
+    <node id="4" x="54.0" y="-22.0"/>
+  </nodes>
+</network>
+
